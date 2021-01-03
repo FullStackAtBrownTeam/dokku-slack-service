@@ -1,0 +1,1 @@
+export const slackController = require('./slack')
